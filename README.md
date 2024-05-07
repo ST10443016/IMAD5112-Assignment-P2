@@ -44,6 +44,7 @@ This is after clicking on the "Eat" button. The hunger has increased (The larger
 After clicking on the "Play" button. The happiness has increased while the other attributes have decreased and the picture has updated to Spiffo playing.
 
 ![appsecondpagewashing](https://github.com/ST10443016/IMAD_Assignment2/assets/161335532/ddf8736b-0afc-4a2f-b1b2-4fd0b0e13e1e)
+
 After clicking on the "Wash" button. The cleanliness has increased while the other attributes have decreased and the picture has updated to Spiffo washing.
 ## Conclusion
 
