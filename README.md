@@ -5,7 +5,7 @@ I have designed and created an app that allows users to interact with a virtual 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)(page1userinterface)
+![page1userinterface](https://github.com/ST10443016/IMAD_Assignment2/assets/161335532/0ac8a86a-b10e-437e-961d-6cb27d088b18)
 The user interface on page one consists of one button to proceed to page two, along with a text view and image view to display Spiffo welcoming you.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)(page2userinterface)
